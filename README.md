@@ -1,6 +1,8 @@
 # VSCodeR
 resources  / guides to using R in VSCode
 
+https://github.com/REditorSupport/vscode-R/wiki/Installation:-Windows
+
 https://karatsidhu.medium.com/vscode-vs-rstudio-worth-the-switch-7a4415fc3275
 
 

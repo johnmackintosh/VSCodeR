@@ -1,6 +1,8 @@
 # VSCodeR
 resources  / guides to using R in VSCode
 
+https://karatsidhu.medium.com/vscode-vs-rstudio-worth-the-switch-7a4415fc3275
+
 
 https://www.programmingwithr.com/setup-visual-studio-code-to-run-r-on-vscode-2021/
 

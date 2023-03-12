@@ -11,6 +11,11 @@ https://github.com/REditorSupport/vscode-R/wiki/Installation:-Windows
 Set up R specific keyboard shortcuts:  
 https://github.com/REditorSupport/vscode-R/wiki/Keyboard-shortcuts
 
+
+https://statnmap.com/#what-bugged-me-with-vscode-coming-as-an-rstudio-user  
+
+
+
 https://karatsidhu.medium.com/vscode-vs-rstudio-worth-the-switch-7a4415fc3275
 
 

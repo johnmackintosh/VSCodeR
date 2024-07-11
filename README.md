@@ -21,7 +21,6 @@ https://gist.github.com/strengejacke/82e8d7b869bd9f961d12b4091c145b88
 https://karatsidhu.medium.com/vscode-vs-rstudio-worth-the-switch-7a4415fc3275
 
 
-https://www.programmingwithr.com/setup-visual-studio-code-to-run-r-on-vscode-2021/
 
 https://jozef.io/r300-language-server-setup/
 
